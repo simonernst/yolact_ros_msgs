@@ -56,6 +56,8 @@ add_message_files(
   Mask.msg
   Detection.msg
   Detections.msg
+  Mask_Depth.msg
+  Mask_coordinates.msg
 )
 
 ## Generate services in the 'srv' folder
